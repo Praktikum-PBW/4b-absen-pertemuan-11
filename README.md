@@ -2,3 +2,4 @@
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
 - [Nama Lengkap] - [NPM]
+- [Ilham Rizki Nurhudaya] - [2010631170010]
