@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4B Pertemuan 11
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [Iqbal Kurniawan] - [2010631170012]
 - [Ilham Rizki Nurhudaya] - [2010631170010]
 - [Indira Nur Amalia] - [2010631170011]
 - Irna Purnahasanah - 2010631170014
