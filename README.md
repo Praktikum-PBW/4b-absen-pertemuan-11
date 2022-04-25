@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4B Pertemuan 11
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [Elvin Alan Pratama] - [2010631170065]
 - [Assyifa Khalif] - [2010631170058]
 - [Fathimatuz Zahra] - [2010631170009]
 [Dela Amaliya ] - [ 2010631170062 ]
