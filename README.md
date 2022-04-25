@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4B Pertemuan 11
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [Diki Candra Permana Yuda] - [2010631170064]
 - [Fajar Athariq] - [2010631170068]
 - [Iqbal Kurniawan] - [2010631170012]
 - [Ilham Rizki Nurhudaya] - [2010631170010]
