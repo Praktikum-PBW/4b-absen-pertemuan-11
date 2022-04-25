@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4B Pertemuan 11
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- Irna Purnahasanah - 2010631170014
 - [Faiz Agil Firmansyah] - [2010631170067]
 - Cahya Diantoni - 2010631170060
 - [Annisa Rahma Putri] - [2010631170055]
